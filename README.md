@@ -1,3 +1,3 @@
-Santiago Hertedia
+Heredia Santiago
 
-Clonar repositorio a mi computadora
+Clonar repositorio ami máquina
