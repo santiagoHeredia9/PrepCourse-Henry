@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Repositorio de prueba
+Santiago Hertedia
+
+Clonar repositorio a mi computadora
